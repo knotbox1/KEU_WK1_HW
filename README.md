@@ -28,7 +28,7 @@ Theta labs have gone on to receive a total of $113 million USD.
  
 Theta's corporate investors are shown below
  
-INSERT PHOTO - THETA CORPORATE INVESTORS
+![](https://solberginvest.com/wp-content/uploads/2021/07/Theta-Investors-1536x700.png?ezimgfmt=ng:webp/ngcb2)
  
 ## Business Activities ##
  
