@@ -76,19 +76,19 @@ NFT sales in 2021 was $17.7 billion and is forecasted to to be over $80 billion 
 Theta is the leading media and entertainment blockchain and poses an advantage over the competition through the following key areas which highlight the comprehensive ecosystem that they have created:
  
  
-Theta Community
+**Theta Community**
  
 The Theta community consists of Enterprise Validators including Samsung, Sony, Google, Creative Artists Agency, Binance, Blockchain.com
  
 This gives Theta a competitive edge as they are able to leverage these relationships to initiate strategic discussions with other multinational technology and entertainment firms while providing credibility to new investors.
  
-Theta Development Community
+**Theta Development Community**
  
 Theta labs has created and developed a range of dev tools to accelerate development while also running Theta Hackathons to incentivize development.
  
 Theta is Ethereum compatible which means any Ethereum application can be migrated over to the Theta network and run seamlessly with little to none code changes. This is important as this could help attract Ethereum developers  who are focused on the entertainment and media service as Theta is faster, lower in cost to use and greener than Ethereum and Ethereum has the highest number of blockchain developers.(Chain Debrief)
  
-Thetas Patents
+**Thetas Patents**
  
 Theta Labs have 6 granted patents in this space with 14 more pending.
  
