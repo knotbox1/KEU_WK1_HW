@@ -1,4 +1,4 @@
-#Fintech Case Study - The case for Theta as the leading media and entertainment blockchain
+#Fintech Case Study - The case for Theta as the leading media and entertainment blockchain#
  
 ## Overview and Origin ##
  
@@ -16,7 +16,7 @@ Mitch Liu and Jieyi Long
  
 ### How did the idea for the company (or project) come about? ###
  
-Mitch and Jeiyi had previously created Sliver.tv (now known as theta.tv) was a large virtual reality 360 production that pushed streamers world wide, rendering games into fully immersive VR streams in the esports space. They had initial backing from Samsung VR and Sony. They identified that CDN costs accounted for 30-40% of their operational costs and this became a pain point of their company. Sony and Samsung asked if they could leverage the use of blockchain to solve this pain point and to help other companies in the entertainment streaming space.
+Mitch and Jeiyi had previously created Sliver.tv (now known as theta.tv) which was a large virtual reality 360 production that pushed streamers world wide, rendering games into fully immersive VR streams in the esports space while having initial backing from Samsung VR and Sony. They identified that CDN costs accounted for 30-40% of their operational costs and this became a pain point of their company. Sony and Samsung asked if they could leverage the use of blockchain to solve this pain point and to help other companies in the entertainment streaming space.
  
 In this video Mitch Liu discusses how Theta Labs came about: https://www.youtube.com/watch?v=AJumYrFOy0
  
@@ -41,7 +41,7 @@ Increase user engagement and monetisation through NFTs.
  
 The below picture shows the traditional method of how content is distributed to the viewer. A common problem is an overloaded centralised CDN and this will continue to rise as quality of content increases. According to CISCO, video streaming accounts for ⅔ of internet demand and is predicted to increase to 82% in the next few years.
  
-[![CDN](https://i0.wp.com/coinsutra.com/wp-content/uploads/2021/07/Problems-addressed-by-Theta-Network.png?w=1200&ssl=1 "CDN")
+![CDN](https://i0.wp.com/coinsutra.com/wp-content/uploads/2021/07/Problems-addressed-by-Theta-Network.png?w=1200&ssl=1 "CDN")
  
 The diagram below depicts how Theta Labs aims to help distribute content to the viewers. They arent trying to replace CDNs but rather assist in the “last mile” of delivery where viewer nodes can pull stream from caching nodes that are geographically closer than the CDN servers, resulting in better streaming quality.
  
@@ -49,13 +49,7 @@ The diagram below depicts how Theta Labs aims to help distribute content to the 
  
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
  
-Theta has multiple customers that they can attract across several sectors.
- 
-One of Theta's intended customer is an enterprise streaming service such as: Youtube, Netflix, HBO, Disney Plus, Hulu.
- 
-The content Delivery network market size was $11.5 billion in 2019 and is expected to reach $95.37 billion dollars by 2030. (PR Newswire)
- 
-Theta could reduce CDN costs by up to 90% while improving delivery.
+Theta has multiple customers that they can attract across several sectors. One of Theta's intended customer is an enterprise streaming service such as: Youtube, Netflix, HBO, Disney Plus, Hulu. The content Delivery network market size was $11.5 billion in 2019 and is expected to reach $95.37 billion dollars by 2030. (PR Newswire). Theta could reduce CDN costs by up to 90% while improving delivery.
  
 Additionally they can increase user engagement through the monetization of NFT’s and collectibles  that are earnt for watching metrics such as watching a movie multiple times or completing a box set of a show or watching a live stream.
 These NFT’s can then be sold/traded on Theta’s marketplace thetadrop.com which can then be passed back to content creators and streaming companies creating additional revenue for them.
@@ -187,11 +181,21 @@ Theta Labs combined market cap of Theta token and Theta fuel has a market cap si
  
 ### Why do you think that offering this product or service would benefit the company? ###
  
-This would enable smart contracts, data exchanges and token transfers between other layers 1’s without the need for a Centralized Exchange. By building a cross chain bridge with other Layer 1’s that would incentivise other projects on other networks to port over and build on the Theta network resulting in a bigger Theta ecosystem
+This would enable smart contracts, data exchanges and token transfers between other layers 1’s without the need for a Centralized Exchange. By building a cross chain bridge with other Layer 1’s that would incentivise other projects on other networks to port over and build on the Theta network resulting in a bigger Theta ecosystem. Additionally it could provide opportunities for the Theta ecosystem to interact and gain access to other projects on other chains. 
+
+Also by building out a cross chain bridge the Total Value Locked (TVL) should increase and will create greater utility for the tokens through such functions as:
+- Cross-Chain Exchange
+- Cross-Chain Yield aggregation
+- Cross-Chain Lending
+- Cross-Chain Daos
+- Cross-Chain NFTs
+(https://blog.chain.link/cross-chain-smart-contracts/)
  
 ### What technologies would this additional product or service utilize? ###
  
-Smart Contracts would be used to build the bridge to make sure the transfer of tokens and data are able to move accurately between Layer 1’s.  
+Smart Contracts would be used to build the bridge to make sure the transfer of tokens and data are able to move accurately between Layer 1’s. Essentially it is a set of properly written code. Each network has either written their own code or had a third party create the bridge for them (See below image). 
+
+![](https://static.news.bitcoin.com/wp-content/uploads/2021/09/1jels5svnpaimkwe2nfsb3w.png)
  
 ### Why are these technologies appropriate for your solution? ###
  
@@ -216,4 +220,6 @@ Smart Contracts would be appropriate for the solution as they are a set of prope
 - Finance Yahoo - https://finance.yahoo.com/news/cinedigm-integrates-theta-network-launch-132500928.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJVV9B9oZ6WcJWTvXeZX0UHVOUeaoFVztfpPltYhlpBD0PCCD1p1vM1zBKOzc3LYwy3Km8FpSk5Jbhaex5Greo5chBr1t1dZYF0j7HRq2taILRGN-Ps5h99lhNo2sp-Pgf9zdC7Ac8p6XDskuoUbVegNUQVl4NN-LBK4RgLFsXeJ#:~:text=Theta%20integration%20allows%20leading%20entertainment,engagement%2C%20viewing%20times%20and%20monetization.
 - Crypto Slate - https://cryptoslate.com/katy-perry-to-drop-second-nft-collection-on-theta/
 - Coingecko 1 - https://www.coingecko.com/en/coins/theta-network
+- News.Bitcoin - https://news.bitcoin.com/cross-chain-bridge-value-increases-by-89-in-less-than-a-month-surpassing-14-billion-tvl/
 ****
+
