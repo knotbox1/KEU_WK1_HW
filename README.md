@@ -204,17 +204,16 @@ Smart Contracts would be appropriate for the solution as they are a set of prope
  
 ### Sources ###
  
-Kraken 1 - https://www.kraken.com/en-gb/learn/what-is-theta
-Theta Labs - Thetatoken.org
-Medium Coinmonks - https://medium.com/coinmonks/what-you-should-know-about-theta-and-tfuel-589b9b6a9a76
-Coindesk 1 - https://www.coindesk.com/business/2022/01/20/jefferies-sees-the-nft-market-reaching-more-than-80-billion-in-value-by-2025/
-Tdrop Whitepaper - https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-Ecosystem-2022-and-TDROP-Whitepaper.pdf?v=1630330816.909
-PR Newswire - https://www.prnewswire.com/news-releases/content-delivery-network-market-size-worth-95-37-billion-by-2030-grand-view-research-inc-301497479.html#:~:text=In%2DLanguage%20News-,Content%20Delivery%20Network%20Market%20Size%20Worth%20%2495.37%20Billion,%3A%20Grand%20View%20Research%2C%20Inc
-Chain Debrief - https://chaindebrief.com/which-blockchain-highest-developer-count/#:~:text=Layer%2D1%20blockchain%20overview&text=Developers%20are%20segmented%20into%20community,2020%2C%20and%203%2C920%20in%202021.
-Medium Theta - https://medium.com/theta-network/building-the-theta-protocol-part-iv-d7cce583aad1
-Chain Debrief2 - https://chaindebrief.com/cryptocurrency-adoption-curve-is-the-fastest-in-human-history/
-Finance Yahoo - https://finance.yahoo.com/news/cinedigm-integrates-theta-network-launch-132500928.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJVV9B9oZ6WcJWTvXeZX0UHVOUeaoFVztfpPltYhlpBD0PCCD1p1vM1zBKOzc3LYwy3Km8FpSk5Jbhaex5Greo5chBr1t1dZYF0j7HRq2taILRGN-Ps5h99lhNo2sp-Pgf9zdC7Ac8p6XDskuoUbVegNUQVl4NN-LBK4RgLFsXeJ#:~:text=Theta%20integration%20allows%20leading%20entertainment,engagement%2C%20viewing%20times%20and%20monetization.
-Crypto Slate - https://cryptoslate.com/katy-perry-to-drop-second-nft-collection-on-theta/
-Coingecko 1 - https://www.coingecko.com/en/coins/theta-network
+- Kraken 1 - https://www.kraken.com/en-gb/learn/what-is-theta
+- Theta Labs - Thetatoken.org
+- Medium Coinmonks - https://medium.com/coinmonks/what-you-should-know-about-theta-and-tfuel-589b9b6a9a76
+- Coindesk 1 - https://www.coindesk.com/business/2022/01/20/jefferies-sees-the-nft-market-reaching-more-than-80-billion-in-value-by-2025/
+- Tdrop Whitepaper - https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-Ecosystem-2022-and-TDROP-Whitepaper.pdf?v=1630330816.909
+- PR Newswire - https://www.prnewswire.com/news-releases/content-delivery-network-market-size-worth-95-37-billion-by-2030-grand-view-research-inc-301497479.html#:~:text=In%2DLanguage%20News-,Content%20Delivery%20Network%20Market%20Size%20Worth%20%2495.37%20Billion,%3A%20Grand%20View%20Research%2C%20Inc
+- Chain Debrief - https://chaindebrief.com/which-blockchain-highest-developer-count/#:~:text=Layer%2D1%20blockchain%20overview&text=Developers%20are%20segmented%20into%20community,2020%2C%20and%203%2C920%20in%202021.
+- Medium Theta - https://medium.com/theta-network/building-the-theta-protocol-part-iv-d7cce583aad1
+- Chain Debrief2 - https://chaindebrief.com/cryptocurrency-adoption-curve-is-the-fastest-in-human-history/
+- Finance Yahoo - https://finance.yahoo.com/news/cinedigm-integrates-theta-network-launch-132500928.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJVV9B9oZ6WcJWTvXeZX0UHVOUeaoFVztfpPltYhlpBD0PCCD1p1vM1zBKOzc3LYwy3Km8FpSk5Jbhaex5Greo5chBr1t1dZYF0j7HRq2taILRGN-Ps5h99lhNo2sp-Pgf9zdC7Ac8p6XDskuoUbVegNUQVl4NN-LBK4RgLFsXeJ#:~:text=Theta%20integration%20allows%20leading%20entertainment,engagement%2C%20viewing%20times%20and%20monetization.
+- Crypto Slate - https://cryptoslate.com/katy-perry-to-drop-second-nft-collection-on-theta/
+- Coingecko 1 - https://www.coingecko.com/en/coins/theta-network
 ****
-
